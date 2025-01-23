@@ -30,6 +30,10 @@ def calculate_score(player1, player2):
 |----------------|---------|------------|
 | Atp kolokvij | 1.0     | Roza Vulić |
 
+## License
+
+licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 
 
 
