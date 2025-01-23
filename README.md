@@ -40,6 +40,22 @@ git commit -m "Dodana dokumentacija i web stranica"
 
 git push origin main
 
+## Check lista
+
+- [x] Kreirati GitHub repozitorij nazvan atp-kolokvij
+- [x] Dodati naslov projekta (H1)
+- [x] Dodati kratki opis projekta (H2) – preuzeti tekst s Wikipedije
+- [x] Dodati sliku – preuzeti s Unsplash ili Pexels
+- [x] Dodati primjer koda – preuzeti s Gists
+- [x] Dodati link na izvor slike i teksta
+- [x] Linkati README.md i LICENSE.md (obostrano)
+- [x] Napraviti popis (numerički i ne-numerički)
+- [x] Izraditi kratku tablicu s informacijama o projektu
+- [x] Napraviti commit promjena s odgovarajućom porukom
+- [x] Otvoriti pull request unutar vlastitog repozitorija
+- [x] Dodati LICENSE.md datoteku s MIT licencom
+- [x] Aktivirati GitHub Pages za repozitorij
+
 
 
 
