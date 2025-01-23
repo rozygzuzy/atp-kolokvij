@@ -34,6 +34,14 @@ def calculate_score(player1, player2):
 
 licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+git add README.md LICENSE.md
+
+git commit -m "Dodana dokumentacija i web stranica"
+
+git push origin main
+
+
+
 
 
 
